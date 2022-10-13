@@ -1,0 +1,23 @@
+.div{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#toggleThis{
+    padding: 10px;
+    width: 100%;
+    background-color: blue;
+    text-align: center;
+    border: 1px solid black;
+    color: white;
+}
+#content{
+    padding: 15px;
+    width: 100%;
+    text-align: left;
+    font-size: 20px;
+    display: block;
+    background-color: wheat;
+    color: black;
+}
